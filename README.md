@@ -1,2 +1,3 @@
-# financial_management_MinhCuong
+# Financial Management MinhCuong
 Quản lý tài chính tiệm cầm đồ Minh Cương
+MySQL + C# + DevExpress
